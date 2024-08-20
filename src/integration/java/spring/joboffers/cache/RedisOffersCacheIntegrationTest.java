@@ -1,4 +1,4 @@
-package spring.joboffers.redis;
+package spring.joboffers.cache;
 
 import spring.joboffers.BaseIntegrationTest;
 import spring.joboffers.domain.offer.OfferFacade;

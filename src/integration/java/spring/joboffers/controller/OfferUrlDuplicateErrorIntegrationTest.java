@@ -1,4 +1,4 @@
-package spring.joboffers.error;
+package spring.joboffers.controller;
 
 import spring.joboffers.BaseIntegrationTest;
 import org.junit.jupiter.api.Test;
